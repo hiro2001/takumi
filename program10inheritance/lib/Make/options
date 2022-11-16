@@ -1,0 +1,3 @@
+EXE_INC = -I../lib/InInclude
+
+EXE_LIBS = -L$(FOAM_USER_LIBBIN) -lrigidBody

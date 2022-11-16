@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/newhead/newhead.C.dep: \
+newhead/newhead.C \
+newhead/newhead.H \
+
+#END

@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/dynamics.C.dep: \
+dynamics.C \
+../lib/lnInclude/newhead.H \
+
+#END

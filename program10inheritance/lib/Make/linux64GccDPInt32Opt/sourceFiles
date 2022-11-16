@@ -1,0 +1,6 @@
+SOURCE = \
+rigidBody/rigidBody.C \
+modelProperty/modelProperty.C \
+newhead/newhead.C \
+
+# sources

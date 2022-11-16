@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/modelProperty/modelProperty.C.dep: \
+modelProperty/modelProperty.C \
+modelProperty/modelProperty.H \
+
+#END

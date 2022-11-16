@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/rigidBody/rigidBody.C.dep: \
+rigidBody/rigidBody.C \
+rigidBody/rigidBody.H \
+
+#END

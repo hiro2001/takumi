@@ -1,0 +1,5 @@
+rigidBody/rigidBody.C
+modelProperty/modelProperty.C
+newhead/newhead.C
+
+LIB = $(FOAM_USER_LIBBIN)/librigidBody
